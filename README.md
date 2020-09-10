@@ -4,10 +4,8 @@
 
 September 10, 2019
 
-## Introduction
 
-Course repository for the Data Science Specialization Capstone offered
-through Coursera from Johns Hopkins University.
+This repository contains my submission to Data Science Capstone Project offered by John Hopkins University on Coursera.
 
 ### Course Dataset
 
