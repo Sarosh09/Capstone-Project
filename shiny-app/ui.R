@@ -67,13 +67,13 @@ shinyUI(
                         br(),
                         h3("About Me"),
                         br(),
-                        div("My name is Mohammad Sarosh Basit and I am sophomore 
+                        div("My name is Mohammad Sarosh Basit and I am sophomore
                             at Zakir Hussain College of Engineering and Technology,
                             A.M.U., pursuing computer science engineering.",
                             br(),
                             br(),
                             img(src = "linkedin.png"),
-                            a(target = "_blank", href="https://www.linkedin.com/in/oraclejavanet/", "OracleJavaNet")
+                            a(target = "_blank", href="https://www.linkedin.com/in/mohammad-sarosh-basit/", "Mohammad Sarosh Basit")
                )
     )
 )
